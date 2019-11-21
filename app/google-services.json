@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654627078530",
+    "firebase_url": "https://dialogue-2306b.firebaseio.com",
+    "project_id": "dialogue-2306b",
+    "storage_bucket": "dialogue-2306b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654627078530:android:0d240253132e561e54cf9b",
+        "android_client_info": {
+          "package_name": "com.example.dialogue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654627078530-f43g57h8lba7pkmbi8q7qcov5omseeog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dialogue",
+            "certificate_hash": "35f9909256ebeac2e6f93862bf5b54157489b44c"
+          }
+        },
+        {
+          "client_id": "654627078530-5rl5r56aa2jquo654gfhjqs46r9oddsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo4y6h5ipRmCrhLfYw3DMg3_58caKzVSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654627078530-5rl5r56aa2jquo654gfhjqs46r9oddsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
