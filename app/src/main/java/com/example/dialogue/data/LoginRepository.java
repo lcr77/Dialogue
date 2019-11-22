@@ -1,6 +1,7 @@
 package com.example.dialogue.data;
 
 import com.example.dialogue.data.model.LoggedInUser;
+import com.google.firebase.auth.FirebaseAuth;
 
 /**
  * Class that requests authentication and user information from the remote data source and
@@ -9,6 +10,8 @@ import com.example.dialogue.data.model.LoggedInUser;
 public class LoginRepository {
 
     private static volatile LoginRepository instance;
+
+    private FirebaseAuth mAuth;
 
     private LoginDataSource dataSource;
 
